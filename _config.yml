@@ -12,26 +12,26 @@ email: kaiguangg@hotmail.com
 # email_title: Email (Email title override)
 phone: +65 9386 7556
 # phone_title: Phone (Phone title override)
-website: https://kaiguangg.github.io/digital-cv/
+# website: https://kaiguangg.github.io/digital-cv/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  kaiguangg
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
 linkedin_username: oh-kai-guang-441601101
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -50,15 +50,18 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/DSCF1730.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Highly motivated and detail-oriented software engineer with 2.5 years of professional experience seeking an opportunity to capitalise on my technical skills & abilities in the field of information technology (IT). 
+  An organized team player with a positive attitude towards learning.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -84,7 +87,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: left
+      - layout: right
         title: NCS Pte Ltd
         sub_title: Software Engineer
         caption: October 2021 - Present
@@ -99,7 +102,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-right
         title: University of Wollongong, Singapore Institute of Management
         sub_title: Bachelor of Computer Science with Distinction (Digital Systems Security)
         caption: July 2018 - December 2020
@@ -119,7 +122,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request (Override references text)
+references_title: Last updated on 16 July 2023
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
