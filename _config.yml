@@ -16,7 +16,7 @@ phone: +65 9386 7556
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
@@ -36,9 +36,9 @@ linkedin_username: oh-kai-guang-441601101
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: fa-solid fa-file-arrow-down
-  url: images/OHKAIGUANG_RESUME_2023.pdf
+- title: Download CV as PDF
+  icon: far fa-file-pdf
+  url: https://github.com/kaiguangg/digital-cv/resources/OHKAIGUANG_RESUME_2023.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -88,7 +88,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: NCS Pte Ltd
         sub_title: Software Engineer
         caption: October 2021 - Present
@@ -96,10 +96,30 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          - Lists 1
-          - Lists 2
-          - Lists 3
+
+          - Acted as a point of contact to lead the development of one of the modules, facilitating effective communication between the development team and stakeholders, ensuring the implementations are met.
+          - Developed RESTful API using Spring Boot and Angular frameworks along with Oracle Database.
+          - Ensured proper version control and code management using Git, implementing branching and merging strategies.
+          - Participated in the complete software development life-cycle, from requirements gathering and analysis to design, development, testing, deployment, and support.
+          - Worked closely with product managers and business stakeholders to understand project requirements and translate them into technical solutions.
+          - Conducted integration testing, user acceptance testing and debugging to identify and resolve defects.
+          - Assisted in the roll-out and deployment of an application to the production environment ensuring a smooth transition and minimal disruption.
+          - Provided ongoing support and troubleshooting to end-users, addressing issues and enhancing system performance.
+          - Conducted code reviews and provided constructive feedback to improve code quality and maintainability.
+      - layout: top-right
+        title: PSA International Pte Ltd
+        sub_title: System Analyst
+        caption: Janaury 2021 - September 2021
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+
+          - Performed gaps analysis between the as-is and to-be processes.
+          - Managed the software development of the modules and ensured that it is implemented according to schedule (e.g. defining scope, estimating resource requirements, deliverable)
+          - Prepared functional specifications and documents for developers.
+          - Prepared informational materials to explain requirements or change requests to product managers and business stakeholders.
+          - Worked closely with colleagues, developers, and testers to communicate requirements, reviewing delivered solutions and resolve errors.
   - title: Education
     layout: list
     content:
@@ -114,12 +134,27 @@ content:
           - Final Year Project on Behavioural Password Protection:
             - Project Scope: Propose a software to secure a combination of passwords widely preferred without compromising on user’s preferences
             - Tools: PHP, HTML, CSS, JavaScript, Bootstrap, MySQL, Python, IIS and Cloudflare
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      - layout: top-right
+        title: Singapore Polytechnic
+        sub_title: Diploma in Accountancy
+        caption: May 2013 - May 2016
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Achieved an accumulated GPA of 3.50
+  - title: More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Language**: Fluent in English and Mandarin
 
-  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      **Interests**: Enjoy swimming, bouldering, and badminton
+
+      Knowledge in Microsoft PowerPoint, Word, and Excel
+      
+
+     # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
