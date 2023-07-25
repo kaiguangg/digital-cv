@@ -65,26 +65,26 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: Project name
+  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       link_text: Link Text
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Short overview of the project (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description about the work on/with the project
   - title: Work Experience
     layout: list
     content:
@@ -97,9 +97,10 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Acted as a point of contact to lead the development of one of the modules, facilitating effective communication between the development team and stakeholders, ensuring the implementations are met.
-          - Developed RESTful API using Spring Boot and Angular frameworks along with Oracle Database.
-          - Ensured proper version control and code management using Git, implementing branching and merging strategies.
+          - Acted as a point of contact to lead the development of one of the modules, facilitating effective communication between the development team and stakeholders, and ensuring the implementations are met.
+          - Responsible for developing RESTful API using <mark>Spring Boot and Angular framework</mark> for integrating the MVC components with business services.
+          - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
+          - Ensured proper version control and code management using <mark>Git</mark>, implementing branching and merging strategies.
           - Participated in the complete software development life-cycle, from requirements gathering and analysis to design, development, testing, deployment, and support.
           - Worked closely with product managers and business stakeholders to understand project requirements and translate them into technical solutions.
           - Conducted integration testing, user acceptance testing and debugging to identify and resolve defects.
