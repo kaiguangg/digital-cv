@@ -74,25 +74,27 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Behavioural Password Protection
         link: https://finalyearproject2020.wixsite.com/finalyearproject2020
-        link_text: Link Text
+        link_text: Final Year Project
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Behavioural Password Protection
             icon: fab fa-github
             url: https://github.com/kaiguangg/FYP
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Final year project
+          - title:  Behavioural Password Protection
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=k5TPriRXZD0
+        # quote: >
+        #   Final year project
         description: | # this will include new lines to allow paragraphs
-          The project is to propose new passwords for the users based on the “training” provided. Essentially, the idea is to allow the software to propose a combination of passwords based on what the users like to choose their own passwords. As an example, if the user likes to use multiple alphabets of his children names, then the software will provide proposals to secure those passwords without sacrificing the users’ preference.
+          This project  is to suggest new passwords for users by using a "training" process. The idea is to have the software propose password combinations that align with users' preferences for creating their own passwords. For instance, if a user often uses multiple alphabets from their children's names, the software will suggest secure password options that still cater to the user's preferences.
+          
           Languages: PHP, HTML, CSS, Javascript, Bootstrap, Python
+          
           Tools: 
-          - Alibaba Cloud DNS for Domain Name
-          - VPS (Virtual Private Server) Hosting from SparkedHost.com
+          - Alibaba Cloud DNS for domain name
+          - VPS (Virtual Private Server) hosting from SparkedHost.com
           - SSL certificate from Cloudflare
           - Internet Information Services
-          - XAMPP and Navicat for MySQL Database
+          - XAMPP and Navicat for MySQL database
           - Swift Mailer using Composer
   - title: Work Experience
     layout: list
@@ -127,6 +129,7 @@ content:
           - Performed gaps analysis between the as-is and to-be processes.
           - Managed the software development of the modules and ensured that it is implemented according to schedule (e.g. defining scope, estimating resource requirements, deliverable).
           - Comprehensive understanding of the business domain, databases, as well as functional and technical specification documents.
+          - Worked closely with colleagues, developers, and testers to communicate requirements, reviewing delivered solutions and resolve errors.
   - title: Education
     layout: list
     content:
@@ -163,7 +166,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 02 August 2023
+references_title: 02 August 2023, Powered by Jekyll and GitHub pages.
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
