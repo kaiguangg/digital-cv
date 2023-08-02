@@ -38,7 +38,7 @@ linkedin_username: oh-kai-guang-441601101
 additional_links:
 - title: Download CV as PDF
   icon: far fa-file-pdf
-  url: https://kaiguangg.github.io/digital-cv/resources/sample.pdf
+  url: https://kaiguangg.github.io/digital-cv/resume/index.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,8 +53,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/DSCF1730.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Highly motivated and detail-oriented software engineer with 2.5 years of professional experience seeking an opportunity to capitalise on my technical skills & abilities in the field of information technology (IT). 
-  An organized team player with a positive attitude towards learning.
+  Hi there, my name is Kai Guang. I am a passionate software engineer with 2.5+ years of professional experience in developing full stack web. 
+  I enjoy working on projects that use clean and efficient code, focusing on making the code high-quality and improving the user experience. I'm always on the lookout for new opportunities to work on different things.
+  I am currently working as a Software Engineer with a Singapore Government Agency to refresh & enhance existing defence system(s) using <mark>Angular</mark> <mark>Spring</mark> <mark>Oracle Database</mark>.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -65,26 +66,34 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
-  #                     # other value (or no value) means no border will be displayed
-  #       title: Project name
-  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       link_text: Link Text
-  #       additional_links:
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       quote: >
-  #         Short overview of the project (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description about the work on/with the project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Behavioural Password Protection
+        link: https://finalyearproject2020.wixsite.com/finalyearproject2020
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/kaiguangg/FYP
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Final year project
+        description: | # this will include new lines to allow paragraphs
+          The project is to propose new passwords for the users based on the “training” provided. Essentially, the idea is to allow the software to propose a combination of passwords based on what the users like to choose their own passwords. As an example, if the user likes to use multiple alphabets of his children names, then the software will provide proposals to secure those passwords without sacrificing the users’ preference.
+          Languages: PHP, HTML, CSS, Javascript, Bootstrap, Python
+          Tools: 
+          - Alibaba Cloud DNS for Domain Name
+          - VPS (Virtual Private Server) Hosting from SparkedHost.com
+          - SSL certificate from Cloudflare
+          - Internet Information Services
+          - XAMPP and Navicat for MySQL Database
+          - Swift Mailer using Composer
   - title: Work Experience
     layout: list
     content:
@@ -97,16 +106,15 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Acted as a point of contact to lead the development of one of the modules, facilitating effective communication between the development team and stakeholders, and ensuring the implementations are met.
-          - Responsible for developing RESTful API using <mark>Spring Boot and Angular framework</mark> for integrating the MVC components with business services.
+          - Co-lead the team in the development for existing MINDEF system refresh using <mark>Angular</mark> & <mark>Spring</mark>.
+          - Responsible for developing RESTful API and Batch Jobs for integrating the MVC components with business services.
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
           - Ensured proper version control and code management using <mark>Git</mark>, implementing branching and merging strategies.
           - Participated in the complete software development life-cycle, from requirements gathering and analysis to design, development, testing, deployment, and support.
-          - Worked closely with product managers and business stakeholders to understand project requirements and translate them into technical solutions.
+          - Responsible in designing, integrating and interface new system with old legacy system.
           - Conducted integration testing, user acceptance testing and debugging to identify and resolve defects.
-          - Assisted in the roll-out and deployment of an application to the production environment ensuring a smooth transition and minimal disruption.
-          - Provided ongoing support and troubleshooting to end-users, addressing issues and enhancing system performance.
-          - Conducted code reviews and provided constructive feedback to improve code quality and maintainability.
+          - Performed code reviews and provided constructive feedback to improve code quality and maintainability.
+          - Post production warranty support, monitoring and deployment.
       - layout: top-right
         title: PSA International Pte Ltd
         sub_title: System Analyst
@@ -117,10 +125,8 @@ content:
         description: | # this will include new lines to allow paragraphs
 
           - Performed gaps analysis between the as-is and to-be processes.
-          - Managed the software development of the modules and ensured that it is implemented according to schedule (e.g. defining scope, estimating resource requirements, deliverable)
-          - Prepared functional specifications and documents for developers.
-          - Prepared informational materials to explain requirements or change requests to product managers and business stakeholders.
-          - Worked closely with colleagues, developers, and testers to communicate requirements, reviewing delivered solutions and resolve errors.
+          - Managed the software development of the modules and ensured that it is implemented according to schedule (e.g. defining scope, estimating resource requirements, deliverable).
+          - Comprehensive understanding of the business domain, databases, as well as functional and technical specification documents.
   - title: Education
     layout: list
     content:
@@ -132,7 +138,7 @@ content:
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           - Dean’s Merit Award (2019)
-          - Final Year Project on Behavioural Password Protection:
+          - Final Year Project on Behavioural Password Protection Web Application:
             - Project Scope: Propose a software to secure a combination of passwords widely preferred without compromising on user’s preferences
             - Tools: PHP, HTML, CSS, JavaScript, Bootstrap, MySQL, Python, IIS and Cloudflare
       - layout: top-right
@@ -143,14 +149,12 @@ content:
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           - Achieved an accumulated GPA of 3.50
-  - title: More About Me
+  - title: When I am not programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Language**: Fluent in English and Mandarin
-
-      **Interests**: Enjoy swimming, bouldering, and badminton
-
-      Knowledge in Microsoft PowerPoint, Word, and Excel
+      Outside of my desk job, I prefer spending most of my time outdoors. I enjoy activities like swimming, bouldering, and badminton. 
+      Additionally, I love going for a short getaway and watching movies for relaxation and entertainment. 
+      Also, I make sure to stay informed about the latest tech trends and updated news by reading articles and staying up-to-date with relevant information. This helps me stay current with the ever-evolving world of technology and allows me to explore new opportunities in the field.
       
 
      # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
@@ -159,7 +163,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 16 July 2023
+references_title: 02 August 2023
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
