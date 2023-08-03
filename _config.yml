@@ -51,11 +51,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/DSCF1730.jpg
+about_profile_image: images/pppp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name is Kai Guang. I am a passionate software engineer with 2.5+ years of professional experience in developing full stack web. 
   I enjoy working on projects that use clean and efficient code, focusing on making the code high-quality and improving the user experience. I'm always on the lookout for new opportunities to work on different things.
-  I am currently working as a Software Engineer with a Singapore Government Agency to refresh & enhance existing defence system(s) using <mark>Angular</mark> <mark>Spring</mark> <mark>Oracle Database</mark>.
+  I am currently working as a Software Engineer with a Singapore Government Agency to refresh and enhance existing defence system(s) using Angular, Spring and Oracle Database.
+
+  Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -108,7 +110,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Co-lead the team in the development for existing MINDEF system refresh using <mark>Angular</mark> & <mark>Spring</mark>.
+          - Co-lead the team in the development for existing MINDEF system refresh using Angular & Spring.
           - Responsible for developing RESTful API and Batch Jobs to integrate MVC components with business services.
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
           - Ensured version control and code using Git with proper implementation of branching and merging strategies.
