@@ -54,10 +54,10 @@ body {
 }
 
 .print-button {
-    position: fixed;
+    position:fixed;
     top: 16px;
-    left: 16px;
-    margin-left: 80%;
+    right: 20px;
+    width: 8rem;
 }
 
 ul {
@@ -72,6 +72,7 @@ ul {
     height: 12in;
     background-color: rgb(250, 255, 255, green, blue);
     box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
+    align-items: center;
 }
 
 .resume-header {
