@@ -110,7 +110,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Co-lead the team in the development for existing MINDEF system refresh using Angular & Spring.
+          - Co-lead the team in the development of the existing MINDEF system refresh using Angular & Spring.
           - Responsible for developing RESTful API and Batch Jobs to integrate MVC components with business services.
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
           - Ensured version control and code using Git with proper implementation of branching and merging strategies.

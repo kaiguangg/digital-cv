@@ -118,6 +118,7 @@ ul {
 .resume-header-detail {
     display: flex;
     flex: 1 1 50%;
+    /* font-size: small; */
 }
 
 .resume-header-detail-title {
