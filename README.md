@@ -4,6 +4,7 @@
 *Host your own resume on GitHub for **free!***
 
 [View Demo](https://kaiguangg.github.io/digital-cv/)
+[Theme used](https://github.com/sproogen/modern-resume-theme)
 
 ----
 

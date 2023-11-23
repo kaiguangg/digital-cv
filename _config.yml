@@ -26,7 +26,7 @@ github_username:  kaiguangg
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: oh-kai-guang-441601101
+linkedin_username: oh-kai-guang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -51,13 +51,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/pppp.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there, my name is Kai Guang. I am a passionate software engineer with 2.5+ years of professional experience in developing full stack web. 
+  Hi there, my name is Kai Guang. I am a passionate software developer with 3 years of professional experience in developing full stack web. 
   I enjoy working on projects that use clean and efficient code, focusing on making the code high-quality and improving the user experience. I'm always on the lookout for new opportunities to work on different things.
-  I am currently working as a Software Engineer with a Singapore Government Agency to refresh and enhance existing defence system(s) using Angular, Spring and Oracle Database.
+#  I am currently working as a Software Engineer with a Singapore Government Agency to refresh and enhance existing defence system(s) using Angular, Spring and Oracle Database.
 
-  Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
+#  Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -102,9 +102,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: NCS Pte Ltd
+        title: NCS Group
         sub_title: Software Engineer
-        caption: October 2021 - Present
+        caption: October 2021 - November 2023
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
@@ -115,7 +115,7 @@ content:
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
           - Ensured version control and code using Git with proper implementation of branching and merging strategies.
           - Involved in the entire software development life-cycle, from requirements gathering to design, development, testing, deployment, and support.
-          - Designing, integrating, and creating an interface between the new system and the old legacy system.
+          - Designing, integrating, and creating interfaces between the new system and the old legacy system.
           - Conducted integration testing, user acceptance testing and debugging to identify and resolve defects.
           - Performed code reviews and provided constructive feedback to improve code quality and maintainability.
           - Post production warranty support, monitoring and deployment.
@@ -168,7 +168,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 02 August 2023, Powered by Jekyll and GitHub pages.
+references_title: 01 December 2023, Powered by Jekyll and GitHub pages.
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
