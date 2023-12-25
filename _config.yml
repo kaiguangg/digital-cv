@@ -104,7 +104,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-    - layout: top-right
+      - layout: top-right
         title: GovTech
         sub_title: Software Engineer
         caption: December 2023 - Present
