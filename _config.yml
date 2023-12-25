@@ -79,7 +79,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Behavioural Password Protection
         link: https://finalyearproject2020.wixsite.com/finalyearproject2020
-        link_text: Final Year Project
+        link_text: Final Year Project 2020
         additional_links:
           - title:  Behavioural Password Protection
             icon: fab fa-github
