@@ -39,6 +39,9 @@ additional_links:
 - title: Download CV as PDF
   icon: far fa-file-pdf
   url: https://kaiguangg.github.io/digital-cv/resume/index.html
+- title: Medium Articles
+  icon: far fa-medium
+  url: https://medium.com/@kaiiguangg
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -101,6 +104,16 @@ content:
   - title: Work Experience
     layout: list
     content:
+    - layout: top-right
+        title: GovTech
+        sub_title: Software Engineer
+        caption: December 2023 - Present
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+
+          - Software development
       - layout: top-right
         title: NCS Group
         sub_title: Software Engineer
