@@ -10,7 +10,7 @@ name: Oh Kai Guang
 title: Software Engineer
 email: kaiguangg@hotmail.com
 # email_title: Email (Email title override)
-phone: +65 9386 7556
+phone: 
 # phone_title: Phone (Phone title override)
 # website: https://kaiguangg.github.io/digital-cv/
 # website_title: Web (Website title override)
@@ -56,11 +56,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there, my name is Kai Guang. I am a passionate software developer with 3 years of professional experience in developing full stack web. 
-  I enjoy working on projects that use clean and efficient code, focusing on making the code high-quality and improving the user experience. I'm always on the lookout for new opportunities to work on different things.
+  Hi there, my name is Kai Guang. I am a passionate software developer with 4+ years of professional experience in developing full stack web application.
+  I enjoy working on projects where I can brainstorm ideas with the team, bringing diverse perspectives together to create innovative solutions. I'm always on the lookout for new opportunities to take on unfamiliar technical challenges, expanding both personal and team capabilities.
 #  I am currently working as a Software Engineer with a Singapore Government Agency to refresh and enhance existing defence system(s) using Angular, Spring and Oracle Database.
 
-#  Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
+ Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -90,7 +90,7 @@ content:
         # quote: >
         #   Final year project
         description: | # this will include new lines to allow paragraphs
-          This project  is to suggest new passwords for users by using a "training" process. The idea is to have the software propose password combinations that align with users' preferences for creating their own passwords. For instance, if a user often uses multiple alphabets from their children's names, the software will suggest secure password options that still cater to the user's preferences.
+          This FYP project is to suggest new passwords for users by using a "training" process. The idea is to have the software propose password combinations that align with users' preferences for creating their own passwords. For instance, if a user often uses multiple alphabets from their children's names, the software will suggest secure password options that still cater to the user's preferences.
           
           Languages: PHP, HTML, CSS, Javascript, Bootstrap, Python
           
@@ -105,7 +105,7 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: GovTech
+        title: GovTech (ScienTec Consulting)
         sub_title: Software Engineer
         caption: December 2023 - Present
         # link: Link to company (optional)
@@ -113,7 +113,11 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Software development
+          - Developed and maintained Spring RESTful APIs, Spring Batch, and Angular applications, integrating Keycloak authentication. Deployed using AWS, Docker, and Kubernetes.
+          - Collaborated with cross-functional teams to brainstorm and implement innovative software solutions.
+          - Performed load testing to ensure system performance under stress, identifying and resolving potential bottlenecks.
+          - Implemented service integrations with Keycloak authentication.
+          - Conducted sprint deployment for application services, ensuring consistent deployment quality and system uptime.
       - layout: top-right
         title: NCS Group
         sub_title: Software Engineer
@@ -123,7 +127,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
 
-          - Co-lead the team in the development of the existing MINDEF system refresh using Angular & Spring.
+          - Co-lead the team in the development of the existing system refresh using Angular & Spring.
           - Responsible for developing RESTful API and Batch Jobs to integrate MVC components with business services.
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
           - Ensured version control and code using Git with proper implementation of branching and merging strategies.
@@ -170,7 +174,7 @@ content:
   - title: When I am not programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside of my desk job, I prefer spending most of my time outdoors. I enjoy activities like swimming, bouldering, and badminton. 
+      Outside of work, I love spending time outdoors, exploring new places, and trying different foods. I also enjoy activities like board games, swimming, and badminton.
       Additionally, I love going for a short getaway and watching movies for relaxation and entertainment. 
       Also, I make sure to stay informed about the latest tech trends and updated news by reading articles and staying up-to-date with relevant information. This helps me stay current with the ever-evolving world of technology and allows me to explore new opportunities in the field.
       
@@ -181,7 +185,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 01 December 2023, Powered by Jekyll and GitHub pages.
+references_title: 01 January 2025, Powered by Jekyll and GitHub pages.
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
