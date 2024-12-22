@@ -10,7 +10,7 @@ name: Oh Kai Guang
 title: Software Engineer
 email: kaiguangg@hotmail.com
 # email_title: Email (Email title override)
-phone: 
+# phone: +65 12345678
 # phone_title: Phone (Phone title override)
 # website: https://kaiguangg.github.io/digital-cv/
 # website_title: Web (Website title override)
@@ -57,11 +57,8 @@ additional_links:
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name is Kai Guang. I am a passionate software developer with 4+ years of professional experience in developing full stack web application.
-  I enjoy working on projects where I can brainstorm ideas with the team, bringing diverse perspectives together to create innovative solutions. I'm always on the lookout for new opportunities to take on unfamiliar technical challenges, expanding both personal and team capabilities.
+  I enjoy working on projects where I can brainstorm ideas with the team, bringing diverse perspectives together to create innovative solutions. I'm always on the lookout for new opportunities to take on unfamiliar technical challenges, expanding both personal and team capabilities. Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
 #  I am currently working as a Software Engineer with a Singapore Government Agency to refresh and enhance existing defence system(s) using Angular, Spring and Oracle Database.
-
- Actively looking out for new opportunities, drop me a mail or check out my [CV](https://kaiguangg.github.io/digital-cv/resume/index.html).
-
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -112,7 +109,6 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-
           - Developed and maintained Spring RESTful APIs, Spring Batch, and Angular applications, integrating Keycloak authentication. Deployed using AWS, Docker, and Kubernetes.
           - Collaborated with cross-functional teams to brainstorm and implement innovative software solutions.
           - Performed load testing to ensure system performance under stress, identifying and resolving potential bottlenecks.
@@ -126,7 +122,6 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-
           - Co-lead the team in the development of the existing system refresh using Angular & Spring.
           - Responsible for developing RESTful API and Batch Jobs to integrate MVC components with business services.
           - Developed using complex PL/SQL queries, procedures, triggers and views in Oracle Database.
