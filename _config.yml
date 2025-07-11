@@ -40,7 +40,7 @@ additional_links:
   icon: far fa-file-pdf
   url: https://kaiguangg.github.io/digital-cv/resume/index.html
 - title: Medium Articles
-  icon: far fa-medium
+  icon: fa fa-medium
   url: https://medium.com/@kaiiguangg
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
